@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bose-abhishek
-- 👀 I’m interested in Ceph, Kubernetes, Openshift Data Foundation (ODF) 
+- 👀 I’m interested in Ceph, Openshift, Openshift Data Foundation (ODF) 
 
 <!---
 bose-abhishek/bose-abhishek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
